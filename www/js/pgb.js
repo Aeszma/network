@@ -23,10 +23,9 @@ function deviceInfo() {
 
 function personalInfo() {
 
-	info =  'Dorota Czaicka'     + '\n' + 
+	info =  'Dorota Czaicka' + '\n' + 
 		'KrDUIs1011 + '\n' + 
 		'186129 + '\n';
 
 	navigator.notification.alert(info);
-	
 }
